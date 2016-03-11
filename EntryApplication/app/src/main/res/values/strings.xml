@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EntryApplication</string>
+    <string name="chicagoText">The largest city of the American Midwest, Chicago, Illinois, was founded in 1830.Established as a water transit hub, the city evolved into an industrial metropolis, processing and transporting the raw materials of its vast hinterland. </string>
+    <string name="indianapolisText">Indianapolis is the capital of the U.S. state of Indiana and the county seat of Marion County.Indianapolis was founded in 1821 near the confluence of the White River and Fall Creek as a planned city for the new seat of Indiana\'s state government.</string>
+</resources>
